@@ -5,6 +5,11 @@
 
 }
 
+    body{
+        background-color: beige;
+        font-family: font-family: 'Ubuntu', sans-serif;
+    }
+
 
 .cabecalho {
     background-color: aqua;
@@ -41,5 +46,16 @@
 }
 
 .escolaconteudo{
+    width: 35%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 24px 0;
+    
+}
+
+.escolatitulo{
+
+    padding: 24px 0;
     
 }
